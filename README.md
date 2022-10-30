@@ -1,5 +1,5 @@
 <h1>👋 Hey, There!</h1>
-<img src="https://raw.githubusercontent.com/MohamedAliAyedi/MohamedAliAyedi/main/banner.gif" />
+<img src="https://raw.githubusercontent.com/MohamedAliAyedi/MohamedAliAyedi/main/Banner_TypeScript.png" />
 - 💬  I’m @MohamedAliAyedi <br/>
 - 👀 I’m interested in JavaScript, TypeScript, <br/>
 - 🌱 I’m currently learning advanced DevOps <br/>
