@@ -4,7 +4,6 @@
   <img src="https://shields.io/badge/updated-today-brightgreen" />
   <img src="https://img.shields.io/badge/quality-gold-%23E9C504" />
   <img src="https://img.shields.io/badge/code%20quality-9.5-brightgreen" />
-  <img src="https://img.shields.io/badge/node--lts%40latest-%3E%3D%206.0.0-brightgreen" />
   <img src="https://img.shields.io/badge/passed%20tests-46-informational" />
 </div>
 <br/>
