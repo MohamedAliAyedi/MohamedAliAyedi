@@ -1,15 +1,21 @@
 <h1>👋 Hey, There!</h1>
-<img src="https://raw.githubusercontent.com/MohamedAliAyedi/MohamedAliAyedi/main/Banner_TypeScript.png" />
-- 💬  I’m @MohamedAliAyedi <br/>
+<div style="flex:1;display: flex;flex-direction: row;">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=MohamedAliAyedi" />
+  <img src="https://shields.io/badge/updated-today-brightgreen" />
+  <img src="https://img.shields.io/badge/quality-gold-%23E9C504" />
+  <img src="https://img.shields.io/badge/code%20quality-9.5-brightgreen" />
+  <img src="https://img.shields.io/badge/node--lts%40latest-%3E%3D%206.0.0-brightgreen" />
+  <img src="https://img.shields.io/badge/passed%20tests-46-informational" />
+</div>
+<br/>
+
+- 💬  I’m <b>MohamedAliAyedi</b> <br/>
 - 👀 I’m interested in JavaScript, TypeScript, <br/>
 - 🌱 I’m currently learning advanced DevOps <br/>
 - 💞️ I’m looking to collaborate on .. .<br/>
 - 📫 How to reach me mohamed.ali.ayedi.b@gmail.com <br/>
-- 🌐 My portfolio https://mohamed-ali-ayadi.vercel.app/ <br/>
+- 🌐 My <b>portfolio</b> https://mohamed-ali-ayadi.vercel.app/ <br/>
 <br/>
-How Many Visitors ?
-<img src="https://visitor-badge.glitch.me/badge?page_id=MohamedAliAyedi" />
-
 
 <h3>Things I code with</h3>
 <p>
@@ -17,9 +23,7 @@ How Many Visitors ?
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
   <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
@@ -32,8 +36,8 @@ How Many Visitors ?
   <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
   <img alt="Rollup" src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white" />
+    <img alt="Expressjs" src="https://img.shields.io/badge/-Expressjs-43853d?style=flat-square&logo=Express.js&logoColor=white" />
   <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
