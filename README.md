@@ -1,14 +1,15 @@
 <h1>👋 Hey, There!</h1>
-Visitors: 
-![](https://visitor-badge.glitch.me/badge?page_id=MohamedAliAyedi)
-<br />
-<br/>
+<img src="https://raw.githubusercontent.com/MohamedAliAyedi/MohamedAliAyedi/main/banner.gif" />
 - 💬  I’m @MohamedAliAyedi <br/>
 - 👀 I’m interested in JavaScript, TypeScript, <br/>
 - 🌱 I’m currently learning advanced DevOps <br/>
 - 💞️ I’m looking to collaborate on .. .<br/>
 - 📫 How to reach me mohamed.ali.ayedi.b@gmail.com <br/>
 - 🌐 My portfolio https://mohamed-ali-ayadi.vercel.app/ <br/>
+<br/>
+How Many Visitors ?
+<img src="https://visitor-badge.glitch.me/badge?page_id=MohamedAliAyedi" />
+
 
 <h3>Things I code with</h3>
 <p>
