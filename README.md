@@ -14,6 +14,7 @@
 - 💞️ I’m looking to collaborate on .. .<br/>
 - 📫 How to reach me mohamed.ali.ayedi.b@gmail.com <br/>
 - 🌐 My <b>portfolio</b> https://mohamed-ali-ayadi.vercel.app/ <br/>
+- 🧰 My <b>NPM profile</b> https://www.npmjs.com/~mohamedali_ayadi <br/>
 <br/>
 
 <h3>Things I code with</h3>
