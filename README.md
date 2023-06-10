@@ -11,7 +11,7 @@
 - 💬  I’m <b>MohamedAliAyedi</b> <br/>
 - 👀 I’m interested in JavaScript, TypeScript, <br/>
 - 🌱 I’m currently learning advanced DevOps <br/>
-- 💞️ I’m looking to collaborate on .. .<br/>
+- 💞️ I’m looking to collaborate on all JS frameworks.<br/>
 - 📫 How to reach me mohamed.ali.ayedi.b@gmail.com <br/>
 - 🌐 My <b>portfolio</b> https://mohamed-ali-ayadi.vercel.app/ <br/>
 - 🧰 My <b>NPM profile</b> https://www.npmjs.com/~mohamedali_ayadi <br/>
