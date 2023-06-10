@@ -15,6 +15,9 @@
 - 📫 How to reach me mohamed.ali.ayedi.b@gmail.com <br/>
 - 🌐 My <b>portfolio</b> https://mohamed-ali-ayadi.vercel.app/ <br/>
 - 🧰 My <b>NPM profile</b> https://www.npmjs.com/~mohamedali_ayadi <br/>
+- 😅 My <b>Gitlab profile </b> https://gitlab.com/MohamedAliAyadi <br/>
+
+
 <br/>
 
 <h3>Things I code with</h3>
