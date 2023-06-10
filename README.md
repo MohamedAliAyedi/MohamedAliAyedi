@@ -14,6 +14,7 @@
 - 💞️ I’m looking to collaborate on all JS frameworks.<br/>
 - 📫 How to reach me mohamed.ali.ayedi.b@gmail.com <br/>
 - 🌐 My <b>portfolio</b> https://mohamed-ali-ayadi.vercel.app/ <br/>
+- 💼 My <b>Linkedin profile </b> https://www.linkedin.com/in/mohamed-ali-ayadi/ <br/>
 - 🧰 My <b>NPM profile</b> https://www.npmjs.com/~mohamedali_ayadi <br/>
 - 😅 My <b>Gitlab profile </b> https://gitlab.com/MohamedAliAyadi <br/>
 
