@@ -1,7 +1,6 @@
 <h1>👋 Hey, There!</h1>
 <div style="flex:1;display: flex;flex-direction: row;">
-  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FMohamedAliAyedi"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMohamedAliAyedi&label=Visitors&countColor=%2337d67a&style=flat" /></a>
-  <img src="https://shields.io/badge/updated-today-brightgreen" />
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FMohamedAliAyedi"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMohamedAliAyedi&label=Visitors&countColor=%234e54c8&style=flat" /></a>  <img src="https://shields.io/badge/updated-today-brightgreen" />
   <img src="https://img.shields.io/badge/quality-gold-%23E9C504" />
   <img src="https://img.shields.io/badge/code%20quality-9.5-brightgreen" />
   <img src="https://img.shields.io/badge/passed%20tests-46-informational" />
