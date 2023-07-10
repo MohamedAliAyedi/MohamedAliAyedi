@@ -1,7 +1,5 @@
-<h1 style="flex:1;display: flex;flex-direction: row;">
-  👋 Hey, There! 
+<h1>👋 Hey, There!</h1>
   <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FMohamedAliAyedi%3Ftab%3Drepositories"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMohamedAliAyedi%3Ftab%3Drepositories&label=visitors&countColor=%23263759" /></a>
-</h1>
 <div style="flex:1;display: flex;flex-direction: row;">
   <img src="https://shields.io/badge/updated-today-brightgreen" />
   <img src="https://img.shields.io/badge/quality-gold-%23E9C504" />
