@@ -28,29 +28,166 @@
 
 <br/>
 
-<h3>Things I code with</h3>
-<p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="ReactiveX" src="https://img.shields.io/badge/-RxJs-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
-  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Rollup" src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white" />
-    <img alt="Expressjs" src="https://img.shields.io/badge/-Expressjs-43853d?style=flat-square&logo=Express.js&logoColor=white" />
-  <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+## 🛠️ My Skills
+
+### 👉 Programming languages
+
+<p align="center"> 
+  &emsp; 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black">
+   </a>
+  &emsp; 
+  <a href="https://www.typescriptlang.org/" target="_blank"> 
+     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?style=flat-square&logo=typescript&logoColor=white">
+   </a>
+  &emsp;
+  <a href="https://www.java.com" target="_blank"> 
+    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00.svg?style=flat-square&logo=java&logoColor=white">
+  </a>
+  &emsp;
+   <a href="https://www.python.org" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=flat-square&logo=python&logoColor=white">
+  </a>
+  &emsp;
+   <a href="https://www.php.net/" target="_blank">
+    <img alt="PHP" src="https://img.shields.io/badge/Php%20-%23474A8A.svg?style=flat-square&logo=php&logoColor=white">
+  </a>
+  &emsp;
+   <a href="https://www.rust-lang.org" target="_blank">
+    <img alt="Rust" src="https://img.shields.io/badge/Rust-000000.svg?style=flat-square&logo=rust&logoColor=white">
+  </a>
 </p>
+
+### 👉 Frontend Development
+<p align="center"> 
+  &emsp; 
+  <a href="https://www.w3.org/html/" target="_blank"> 
+   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white">
+  </a>   
+  &emsp;
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=flat-square&logo=css3&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="https://angular.io/" target="_blank">
+    <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031.svg?style=flat-square&logo=angular&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="https://reactjs.org/" target="_blank">
+    <img alt="React" src="https://img.shields.io/badge/React-20232A.svg?style=flat-square&logo=react&logoColor=61DAFB">
+  </a> 
+  &emsp;
+  <a href="https://reactnative.dev/" target="_blank">
+    <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A.svg?style=flat-square&logo=react&logoColor=61DAFB">
+  </a> 
+  &emsp;
+  <a href="https://nextjs.org/" target="_blank">
+    <img alt="NextJs" src="https://img.shields.io/badge/NextJs-black.svg?style=flat-square&logo=next.js&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="https://mui.com/" target="_blank">
+    <img alt="Material-UI" src="https://img.shields.io/badge/Material--UI-0081CB.svg?style=flat-square&logo=mui&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C.svg?style=flat-square&logo=Bootstrap&logoColor=white">
+  </a> 
+</p>
+
+### 👉 Backend Development
+
+<p align="center"> 
+  &emsp; 
+  <a href="https://www.nodejs.org" target="_blank"> 
+   <img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-339933.svg?style=flat-square&logo=node.js&logoColor=white">
+  </a>   
+  &emsp; 
+  <a href="https://www.expressjs.com" target="_blank"> 
+   <img alt="ExpressJS" src="https://img.shields.io/badge/ExpressJS-black.svg?style=flat-square&logo=Express&logoColor=white">
+  </a>   
+  &emsp; 
+  <a href="https://www.nestjs.com" target="_blank"> 
+   <img alt="NestJs" src="https://img.shields.io/badge/NestJS-E0234E.svg?style=flat-square&logo=nestjs&logoColor=white">
+  </a>   
+  &emsp; 
+  <a href="https://www.laravel.com" target="_blank"> 
+   <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20.svg?style=flat-square&logo=laravel&logoColor=white">
+  </a>   
+  &emsp; 
+  <a href="https://www.laravel.com" target="_blank"> 
+   <img alt="Symfony" src="https://img.shields.io/badge/Symfony-black.svg?style=flat-square&logo=Symfony&logoColor=white">
+  </a>   
+  &emsp; 
+  <a href="https://spring.io/" target="_blank"> 
+   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-6DB33F.svg?style=flat-square&logo=spring&logoColor=white">
+  </a>   
+</p>
+
+### 👉 Software & Tools
+ 
+<p align="center">
+  &emsp;
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=flat-square&logo=git&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/Github-%23181717.svg?style=flat-square&logo=github&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="GitLab" src="https://img.shields.io/badge/GitLab-fff.svg?style=flat-square&logo=gitlab&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?style=flat-square&logo=Docker&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Mark Down" src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Npm" src="https://img.shields.io/badge/Npm-white?style=flat-square&logo=npm&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=flat-square&logo=json&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Postman" img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=flat-square&logo=Postman&logoColor=white"></a>
+</p>
+
+### 👉 IDEs
+ 
+<p align="center">
+  &emsp;
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="JetBrain" src="https://img.shields.io/badge/IntelliJ -%23000000.svg?style=flat-square&logo=IntelliJ IDEA&logoColor=white" /></a>
+  &emsp;
+    <a href="#"><img alt="PhpStorm" src="https://img.shields.io/badge/PHPStorm-181717.svg?&style=flat-square&logo=phpstorm&logoColor=white" /></a>
+</p>
+
+### 👉 Design Tools
+ 
+<p align="center">
+  &emsp;
+    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?style=flat-square&logo=Adobe&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe Photoshop-31A8FF.svg?style=flat-square&logo=Adobe Photoshop&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe Illustrator-FF9A00.svg?style=flat-square&logo=Adobe Illustrator&logoColor=black"/></a>
+  &emsp;
+    <a href="#"><img alt="Adobe After Effects" src="https://img.shields.io/badge/Adobe After Effects-9999FF.svg?&style=flat-square&logo=Adobe After Effects&logoColor=white" /></a>
+  &emsp;
+    <a href="#"><img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF.svg?&style=flat-square&logo=Adobe Premiere Pro&logoColor=white" /></a>
+  &emsp;
+    <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?&style=flat-square&logo=Figma&logoColor=white" /></a>
+</p>
+
+ ### 👉 Operating Systems
+ 
+<p align="center">
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"></a>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white"></a>
+</p>
+
+<br/>
