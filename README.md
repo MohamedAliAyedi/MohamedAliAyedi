@@ -162,23 +162,6 @@
     <a href="#"><img alt="PhpStorm" src="https://img.shields.io/badge/PHPStorm-181717.svg?&style=flat-square&logo=phpstorm&logoColor=white" /></a>
 </div>
 
-### 👉 Design Tools
- 
-<div>
-  &emsp;
-    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?style=flat-square&logo=Adobe&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe Photoshop-31A8FF.svg?style=flat-square&logo=Adobe Photoshop&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe Illustrator-FF9A00.svg?style=flat-square&logo=Adobe Illustrator&logoColor=black"/></a>
-  &emsp;
-    <a href="#"><img alt="Adobe After Effects" src="https://img.shields.io/badge/Adobe After Effects-9999FF.svg?&style=flat-square&logo=Adobe After Effects&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF.svg?&style=flat-square&logo=Adobe Premiere Pro&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?&style=flat-square&logo=Figma&logoColor=white" /></a>
-</div>
-
  ### 👉 Operating Systems
  
 <div>
