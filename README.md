@@ -59,7 +59,7 @@
 </div>
 
 ### 👉 Frontend Development
-<div style="display: flex !important"> 
+<div style="display: flex"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white">
