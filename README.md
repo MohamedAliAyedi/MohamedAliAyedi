@@ -1,6 +1,8 @@
 <h1 align="center">Hi , I'm Dali 👋 </h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Web+And+Mobile+Developer;Full+Stack+JS;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Web+And+Mobile+Developer;Full+Stack+JS;&center=true&width=500&height=50" />
+  </a>
 </p>
 
 <div align="center" style="flex:1;display: flex;flex-direction: row;"> 
@@ -57,7 +59,7 @@
 </div>
 
 ### 👉 Frontend Development
-<div> 
+<div style="display:flex;flex:1"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white">
@@ -98,7 +100,7 @@
 
 ### 👉 Backend Development
 
-<div>
+<div style="display:flex;flex:1"> 
   &emsp; 
   <a href="https://www.nodejs.org" target="_blank"> 
    <img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-339933.svg?style=flat-square&logo=node.js&logoColor=white">
@@ -127,7 +129,7 @@
 
 ### 👉 Software & Tools
  
-<div>
+<div style="display:flex;flex:1"> 
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=flat-square&logo=git&logoColor=white"></a>
   &emsp;
@@ -150,7 +152,7 @@
 
 ### 👉 IDEs
  
-<div>
+<div style="display:flex;flex:1"> 
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white"></a>
   &emsp;
@@ -161,7 +163,7 @@
 
  ### 👉 Operating Systems
  
-<div>
+<div style="display:flex;flex:1"> 
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"></a>
   &emsp;
