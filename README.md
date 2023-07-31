@@ -31,7 +31,7 @@
 
 ### 👉 Programming languages
 
-<div> 
+<div style="display:flex;flex:1"> 
   &emsp; 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black">
