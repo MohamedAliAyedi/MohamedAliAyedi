@@ -3,14 +3,14 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Web+And+Mobile+Developer;Full+Stack+JS;&center=true&width=500&height=50"></a>
 </p>
 
-<p align="center"> 
-	<div style="flex:1;display: flex;flex-direction: row;">
-<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FMohamedAliAyedi"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMohamedAliAyedi&label=Visitors&countColor=%234e54c8&style=flat" /></a>  <img src="https://shields.io/badge/updated-today-brightgreen" />
-  <img src="https://img.shields.io/badge/quality-gold-%23E9C504" />
-  <img src="https://img.shields.io/badge/code%20quality-9.5-brightgreen" />
-  <img src="https://img.shields.io/badge/passed%20tests-46-informational" />
+<div align="center" style="flex:1;display: flex;flex-direction: row;"> 
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FMohamedAliAyedi"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMohamedAliAyedi&label=Visitors&countColor=%234e54c8&style=flat" /></a>  
+  <img src="https://shields.io/badge/updated-today-brightgreen" style="margin-left: 5px" />
+  <img src="https://img.shields.io/badge/quality-gold-%23E9C504" style="margin-left: 5px" />
+  <img src="https://img.shields.io/badge/code%20quality-9.5-brightgreen" style="margin-left: 5px" />
+  <img src="https://img.shields.io/badge/passed%20tests-46-informational" style="margin-left: 5px" />
 </div>
-</p>
+
 
 
 <br/>
