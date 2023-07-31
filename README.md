@@ -31,7 +31,7 @@
 
 ### 👉 Programming languages
 
-<div style="display:flex;flex:1"> 
+<div style="display:flex"> 
   &emsp; 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black">
@@ -59,7 +59,7 @@
 </div>
 
 ### 👉 Frontend Development
-<div style="display:flex;flex:1"> 
+<div style="display: flex"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white">
@@ -100,7 +100,7 @@
 
 ### 👉 Backend Development
 
-<div style="display:flex;flex:1"> 
+<div style="display:flex"> 
   &emsp; 
   <a href="https://www.nodejs.org" target="_blank"> 
    <img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-339933.svg?style=flat-square&logo=node.js&logoColor=white">
@@ -129,7 +129,7 @@
 
 ### 👉 Software & Tools
  
-<div style="display:flex;flex:1"> 
+<div style="display: flex"> 
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=flat-square&logo=git&logoColor=white"></a>
   &emsp;
@@ -145,14 +145,14 @@
   &emsp;
     <a href="#"><img alt="Npm" src="https://img.shields.io/badge/Npm-f1f1f1?style=flat-square&logo=npm&logoColor=red"></a>
   &emsp;
-    <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=flat-square&logo=json&logoColor=white"></a>
+    <a href="#"><img alt="JSON" src="https://img.shields.io/badge/json-%23000000.svg?style=flat-square&logo=json&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Postman" img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=flat-square&logo=Postman&logoColor=white"></a>
+    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?style=flat-square&logo=Postman&logoColor=white"></a>
 </div>
 
 ### 👉 IDEs
  
-<div style="display:flex;flex:1"> 
+<div style="display: flex"> 
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white"></a>
   &emsp;
@@ -163,7 +163,7 @@
 
  ### 👉 Operating Systems
  
-<div style="display:flex;flex:1"> 
+<div style="display: flex"> 
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"></a>
   &emsp;
