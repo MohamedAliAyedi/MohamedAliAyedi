@@ -59,7 +59,7 @@
 </div>
 
 ### 👉 Frontend Development
-<div style="display: flex"> 
+<p align="center"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white">
@@ -96,7 +96,7 @@
   <a href="https://getbootstrap.com/" target="_blank">
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C.svg?style=flat-square&logo=Bootstrap&logoColor=white">
   </a> 
-</div>
+</p>
 
 ### 👉 Backend Development
 
