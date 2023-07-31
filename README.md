@@ -11,14 +11,11 @@
   <img src="https://img.shields.io/badge/passed%20tests-46-informational" style="margin-left: 5px" />
 </div>
 
-
-
 <br/>
 
-- 💬  I’m <b>MohamedAliAyedi</b> <br/>
-- 👀 I’m interested in JavaScript, TypeScript, <br/>
-- 🌱 I’m currently learning advanced DevOps <br/>
-- 💞️ I’m looking to collaborate on all JS frameworks.<br/>
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building mobile & web applications.
+- :seedling: Exploring Technical Content Writing.
+- :zap: In my free time, I solve problems on CodinGame, develop some application ideas, and read tech articles.
 - 📫 How to reach me mohamed.ali.ayedi.b@gmail.com <br/>
 - 🌐 My <b>portfolio</b> https://mohamed-ali-ayadi.vercel.app/ <br/>
 - 💼 My <b>Linkedin profile </b> https://www.linkedin.com/in/mohamed-ali-ayadi/ <br/>
