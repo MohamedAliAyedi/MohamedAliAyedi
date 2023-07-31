@@ -43,7 +43,7 @@
    </a>
   &emsp;
   <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00.svg?style=flat-square&logo=java&logoColor=white">
+    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00.svg?style=flat-square&logo=java&logoColor=orange">
   </a>
   &emsp;
    <a href="https://www.python.org" target="_blank">
@@ -144,7 +144,7 @@
   &emsp;
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Npm" src="https://img.shields.io/badge/Npm-white?style=flat-square&logo=npm&logoColor=white"></a>
+    <a href="#"><img alt="Npm" src="https://img.shields.io/badge/Npm-white?style=flat-square&logo=npm&logoColor=red"></a>
   &emsp;
     <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=flat-square&logo=json&logoColor=white"></a>
   &emsp;
