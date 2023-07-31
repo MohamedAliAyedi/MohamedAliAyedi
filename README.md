@@ -32,7 +32,7 @@
 
 ### 👉 Programming languages
 
-<p align="center"> 
+<div> 
   &emsp; 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black">
@@ -57,10 +57,10 @@
    <a href="https://www.rust-lang.org" target="_blank">
     <img alt="Rust" src="https://img.shields.io/badge/Rust-000000.svg?style=flat-square&logo=rust&logoColor=white">
   </a>
-</p>
+</div>
 
 ### 👉 Frontend Development
-<p align="center"> 
+<p> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white">
@@ -101,7 +101,7 @@
 
 ### 👉 Backend Development
 
-<p align="center"> 
+<p>
   &emsp; 
   <a href="https://www.nodejs.org" target="_blank"> 
    <img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-339933.svg?style=flat-square&logo=node.js&logoColor=white">
@@ -130,7 +130,7 @@
 
 ### 👉 Software & Tools
  
-<p align="center">
+<p>
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=flat-square&logo=git&logoColor=white"></a>
   &emsp;
@@ -153,7 +153,7 @@
 
 ### 👉 IDEs
  
-<p align="center">
+<p>
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white"></a>
   &emsp;
@@ -164,7 +164,7 @@
 
 ### 👉 Design Tools
  
-<p align="center">
+<p>
   &emsp;
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?style=flat-square&logo=Adobe&logoColor=white"></a>
   &emsp;
@@ -181,7 +181,7 @@
 
  ### 👉 Operating Systems
  
-<p align="center">
+<p >
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"></a>
   &emsp;
