@@ -136,7 +136,7 @@
   &emsp;
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/Github-%23181717.svg?style=flat-square&logo=github&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="GitLab" src="https://img.shields.io/badge/GitLab-fff.svg?style=flat-square&logo=gitlab&logoColor=white"></a>
+    <a href="#"><img alt="GitLab" src="https://img.shields.io/badge/GitLab-f1f1f1.svg?style=flat-square&logo=gitlab&logoColor=orange"></a>
   &emsp;
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?style=flat-square&logo=Docker&logoColor=white"></a>
   &emsp;
@@ -144,7 +144,7 @@
   &emsp;
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Npm" src="https://img.shields.io/badge/Npm-gray?style=flat-square&logo=npm&logoColor=red"></a>
+    <a href="#"><img alt="Npm" src="https://img.shields.io/badge/Npm-f1f1f1?style=flat-square&logo=npm&logoColor=red"></a>
   &emsp;
     <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=flat-square&logo=json&logoColor=white"></a>
   &emsp;
