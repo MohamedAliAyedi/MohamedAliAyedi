@@ -60,7 +60,7 @@
 </div>
 
 ### 👉 Frontend Development
-<p> 
+<div> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white">
@@ -97,11 +97,11 @@
   <a href="https://getbootstrap.com/" target="_blank">
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C.svg?style=flat-square&logo=Bootstrap&logoColor=white">
   </a> 
-</p>
+</div>
 
 ### 👉 Backend Development
 
-<p>
+<div>
   &emsp; 
   <a href="https://www.nodejs.org" target="_blank"> 
    <img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-339933.svg?style=flat-square&logo=node.js&logoColor=white">
@@ -126,11 +126,11 @@
   <a href="https://spring.io/" target="_blank"> 
    <img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-6DB33F.svg?style=flat-square&logo=spring&logoColor=white">
   </a>   
-</p>
+</div>
 
 ### 👉 Software & Tools
  
-<p>
+<div>
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=flat-square&logo=git&logoColor=white"></a>
   &emsp;
@@ -149,22 +149,22 @@
     <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=flat-square&logo=json&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Postman" img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=flat-square&logo=Postman&logoColor=white"></a>
-</p>
+</div>
 
 ### 👉 IDEs
  
-<p>
+<div>
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="JetBrain" src="https://img.shields.io/badge/IntelliJ -%23000000.svg?style=flat-square&logo=IntelliJ IDEA&logoColor=white" /></a>
   &emsp;
     <a href="#"><img alt="PhpStorm" src="https://img.shields.io/badge/PHPStorm-181717.svg?&style=flat-square&logo=phpstorm&logoColor=white" /></a>
-</p>
+</div>
 
 ### 👉 Design Tools
  
-<p>
+<div>
   &emsp;
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?style=flat-square&logo=Adobe&logoColor=white"></a>
   &emsp;
@@ -177,17 +177,17 @@
     <a href="#"><img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF.svg?&style=flat-square&logo=Adobe Premiere Pro&logoColor=white" /></a>
   &emsp;
     <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?&style=flat-square&logo=Figma&logoColor=white" /></a>
-</p>
+</div>
 
  ### 👉 Operating Systems
  
-<p >
+<div>
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"></a>
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"></a>
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white"></a>
-</p>
+</div>
 
 <br/>
