@@ -59,7 +59,7 @@
 </div>
 
 ### 👉 Frontend Development
-<p align="center"> 
+<div style="display:flex"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white">
@@ -77,10 +77,6 @@
     <img alt="React" src="https://img.shields.io/badge/React-20232A.svg?style=flat-square&logo=react&logoColor=61DAFB">
   </a> 
   &emsp;
-  <a href="https://reactnative.dev/" target="_blank">
-    <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A.svg?style=flat-square&logo=react&logoColor=61DAFB">
-  </a> 
-  &emsp;
   <a href="https://nextjs.org/" target="_blank">
     <img alt="NextJs" src="https://img.shields.io/badge/NextJs-black.svg?style=flat-square&logo=next.js&logoColor=white">
   </a> 
@@ -96,7 +92,28 @@
   <a href="https://getbootstrap.com/" target="_blank">
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C.svg?style=flat-square&logo=Bootstrap&logoColor=white">
   </a> 
-</p>
+</div>
+
+### 👉 Mobile Development
+<div style="display:flex"> 
+  &emsp;
+  <a href="https://reactnative.dev/" target="_blank">
+    <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A.svg?style=flat-square&logo=react&logoColor=61DAFB">
+  </a> 
+  &emsp;
+  <a href="https://reactnative.dev/" target="_blank">
+    <img alt="IONIC" src="https://img.shields.io/badge/Ionic-4a8bfc.svg?style=flat-square&logo=ionic&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="https://reactnative.dev/" target="_blank">
+    <img alt="IONIC" src="https://img.shields.io/badge/Android Studio-3ddc84.svg?style=flat-square&logo=android&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="https://reactnative.dev/" target="_blank">
+    <img alt="IONIC" src="https://img.shields.io/badge/Xcode-1973e3.svg?style=flat-square&logo=xcode&logoColor=white">
+  </a> 
+
+</div>
 
 ### 👉 Backend Development
 
