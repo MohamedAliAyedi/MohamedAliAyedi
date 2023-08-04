@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Dali 👋 </h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Web+And+Mobile+Developer;Full+Stack+JS;&center=true&width=500&height=50" />
+  <a href="https://github.com/MohamedAliAyedi">
+    <img src="https://raw.githubusercontent.com/MohamedAliAyedi/MohamedAliAyedi/main/ezgif-3-fba6f9a7e1.gif" />
   </a>
 </p>
 
