@@ -15,9 +15,13 @@
 
 <br/>
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building mobile & web applications.
-- :seedling: Exploring Technical Content Writing.
-- :zap: In my free time, I solve problems on CodinGame, develop some application ideas, and read tech articles.
+- 🔭 I’m a Software and DevOps engineer, contributing to frontend and backend for building mobile & web applications.
+- 🌱 I’m looking to collaborate on community projects.
+- 🧐 Interested in ♾️ DevOps ♾️, Recent focus on 💯 Ansible 💯.
+- ⚡ In my free time, I solve complex algorithms, develop some application ideas, and read tech articles.
+- 🧑‍🎓 3 years of computer science, and 4 years of software engineering education.
+- 💼 I have more than 3 years of professional experience
+  
 - 📫 How to reach me mohamed.ali.ayedi.b@gmail.com <br/>
 - 🌐 My <b>portfolio</b> https://mohamed-ali-ayadi.vercel.app/ <br/>
 - 💼 My <b>Linkedin profile </b> https://www.linkedin.com/in/mohamed-ali-ayadi/ <br/>
@@ -31,7 +35,7 @@
 
 ### 👉 Programming languages
 
-<div style="display:flex"> 
+<div style="display: flex"> 
   &emsp; 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black">
@@ -59,7 +63,7 @@
 </div>
 
 ### 👉 Frontend Development
-<div style="display:flex"> 
+<div style="display: flex"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white">
@@ -95,7 +99,7 @@
 </div>
 
 ### 👉 Mobile Development
-<div style="display:flex"> 
+<div style="display: flex"> 
   &emsp;
   <a href="https://reactnative.dev/" target="_blank">
     <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A.svg?style=flat-square&logo=react&logoColor=61DAFB">
@@ -117,7 +121,7 @@
 
 ### 👉 Backend Development
 
-<div style="display:flex"> 
+<div style="display: flex"> 
   &emsp; 
   <a href="https://www.nodejs.org" target="_blank"> 
    <img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-339933.svg?style=flat-square&logo=node.js&logoColor=white">
