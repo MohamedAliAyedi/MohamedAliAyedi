@@ -19,7 +19,7 @@
 - 🌱 I’m looking to collaborate on community projects.
 - 🧐 Interested in ♾️ DevOps ♾️, Recent focus on 💯 Ansible 💯.
 - ⚡ In my free time, I solve complex algorithms, develop some application ideas, and read tech articles.
-- 🧑‍🎓 3 years of computer science, and 4 years of software engineering education.
+- 🧑‍🎓 3 years of computer science, and 4 years of Software Architecture engineering education.
 - 🤵 I have more than 3 years of professional experience
   
 - 📫 How to reach me mohamed.ali.ayedi.b@gmail.com <br/>
