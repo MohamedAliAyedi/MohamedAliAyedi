@@ -177,7 +177,7 @@
   &emsp;
     <a href="#"><img alt="JetBrain" src="https://img.shields.io/badge/IntelliJ -%23000000.svg?style=flat-square&logo=IntelliJ IDEA&logoColor=white" /></a>
   &emsp;
-    <a href="#"><img alt="PhpStorm" src="https://img.shields.io/badge/PHPStorm-181717.svg?&style=flat-square&logo=phpstorm&logoColor=white" /></a>
+    <a href="#"><img alt="PhpStorm" src="https://img.shields.io/badge/Eclipse-blue?style=flat-square&logo=eclipse&logoColor=white" /></a>
 </div>
 
  ### 👉 Operating Systems
@@ -189,6 +189,9 @@
     <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"></a>
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white"></a>
+    &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/MacOS-afafaf?style=flat-square&logo=macos&logoColor=gray"></a>
 </div>
+
 
 <br/>
