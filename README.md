@@ -190,7 +190,7 @@
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white"></a>
     &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/MacOS-afafaf?style=flat-square&logo=macos&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/MacOS-afafaf?style=flat-square&logo=apple&logoColor=white"></a>
 </div>
 
 
