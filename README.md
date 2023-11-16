@@ -33,6 +33,12 @@
 
 ## 🛠️ My Skills
 
+<p align="center">
+  <a href="https://github.com/MohamedAliAyedi">
+    <img src="https://raw.githubusercontent.com/MohamedAliAyedi/MohamedAliAyedi/main/ezgif-3-fba6f9a7e1.gif" />
+  </a>
+</p>
+
 ### 👉 Programming languages
 
 <div style="display: flex"> 
