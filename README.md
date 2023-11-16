@@ -139,15 +139,7 @@
   &emsp; 
   <a href="https://www.nestjs.com" target="_blank"> 
    <img alt="NestJs" src="https://img.shields.io/badge/NestJS-E0234E.svg?style=flat-square&logo=nestjs&logoColor=white">
-  </a>   
-  &emsp; 
-  <a href="https://www.laravel.com" target="_blank"> 
-   <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20.svg?style=flat-square&logo=laravel&logoColor=white">
-  </a>   
-  &emsp; 
-  <a href="https://www.laravel.com" target="_blank"> 
-   <img alt="Symfony" src="https://img.shields.io/badge/Symfony-black.svg?style=flat-square&logo=Symfony&logoColor=white">
-  </a>   
+  </a>    
   &emsp; 
   <a href="https://spring.io/" target="_blank"> 
    <img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-6DB33F.svg?style=flat-square&logo=spring&logoColor=white">
