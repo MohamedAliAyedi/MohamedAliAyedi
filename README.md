@@ -35,7 +35,7 @@
 
 <p align="center">
   <a href="https://github.com/MohamedAliAyedi">
-    <img src="https://raw.githubusercontent.com/MohamedAliAyedi/MohamedAliAyedi/main/ezgif-3-fba6f9a7e1.gif" />
+    <img src="https://raw.githubusercontent.com/MohamedAliAyedi/MohamedAliAyedi/main/anime-glasses.gif" />
   </a>
 </p>
 
