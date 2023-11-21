@@ -29,9 +29,7 @@
 - 😅 My <b>Gitlab profile </b> https://gitlab.com/MohamedAliAyadi <br/>
 
 
-[![bap's GitHub | Dependencies](https://stats.quine.sh/bap/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=bap)
-
-[![bap's GitHub | Stats](https://stats.quine.sh/bap/github?theme=light)](https://quine.sh)
+[![MohamedAliAyedi's GitHub | Stats](https://stats.quine.sh/MohamedAliAyedi/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=MohamedAliAyedi)
 
 ## 🛠️ My Skills
 
