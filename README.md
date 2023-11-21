@@ -30,6 +30,7 @@
 
 
 [![MohamedAliAyedi's GitHub | Stats](https://stats.quine.sh/MohamedAliAyedi/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=MohamedAliAyedi)
+[![MohamedAliAyedi's GitHub | Languages Over Time](https://stats.quine.sh/MohamedAliAyedi/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=MohamedAliAyedi)
 
 ## 🛠️ My Skills
 
