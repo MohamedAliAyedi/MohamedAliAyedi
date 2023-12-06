@@ -105,21 +105,13 @@
 ### 👉 Mobile Development
 <div style="display: flex"> 
   &emsp;
-  <a href="https://reactnative.dev/" target="_blank">
-    <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A.svg?style=flat-square&logo=react&logoColor=61DAFB">
-  </a> 
+  <a href="https://reactnative.dev/" target="_blank"><img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A.svg?style=flat-square&logo=react&logoColor=61DAFB"></a> 
   &emsp;
-  <a href="https://reactnative.dev/" target="_blank">
-    <img alt="IONIC" src="https://img.shields.io/badge/Ionic-4a8bfc.svg?style=flat-square&logo=ionic&logoColor=white">
-  </a> 
+  <a href="https://reactnative.dev/" target="_blank"><img alt="IONIC" src="https://img.shields.io/badge/Ionic-4a8bfc.svg?style=flat-square&logo=ionic&logoColor=white"></a> 
   &emsp;
-  <a href="https://reactnative.dev/" target="_blank">
-    <img alt="IONIC" src="https://img.shields.io/badge/Android Studio-3ddc84.svg?style=flat-square&logo=android&logoColor=white">
-  </a> 
+  <a href="https://reactnative.dev/" target="_blank"><img alt="IONIC" src="https://img.shields.io/badge/Android Studio-3ddc84.svg?style=flat-square&logo=android&logoColor=white"></a> 
   &emsp;
-  <a href="https://reactnative.dev/" target="_blank">
-    <img alt="IONIC" src="https://img.shields.io/badge/Xcode-1973e3.svg?style=flat-square&logo=xcode&logoColor=white">
-  </a> 
+  <a href="https://reactnative.dev/" target="_blank"><img alt="IONIC" src="https://img.shields.io/badge/Xcode-1973e3.svg?style=flat-square&logo=xcode&logoColor=white"></a> 
 
 </div>
 
@@ -127,21 +119,13 @@
 
 <div style="display: flex"> 
   &emsp; 
-  <a href="https://www.nodejs.org" target="_blank"> 
-   <img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-339933.svg?style=flat-square&logo=node.js&logoColor=white">
-  </a>   
+  <a href="https://www.nodejs.org" target="_blank"><img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-339933.svg?style=flat-square&logo=node.js&logoColor=white"></a>   
   &emsp; 
-  <a href="https://www.expressjs.com" target="_blank"> 
-   <img alt="ExpressJS" src="https://img.shields.io/badge/ExpressJS-black.svg?style=flat-square&logo=Express&logoColor=white">
-  </a>   
+  <a href="https://www.expressjs.com" target="_blank"><img alt="ExpressJS" src="https://img.shields.io/badge/ExpressJS-black.svg?style=flat-square&logo=Express&logoColor=white"></a>   
   &emsp; 
-  <a href="https://www.nestjs.com" target="_blank"> 
-   <img alt="NestJs" src="https://img.shields.io/badge/NestJS-E0234E.svg?style=flat-square&logo=nestjs&logoColor=white">
-  </a>    
+  <a href="https://www.nestjs.com" target="_blank"><img alt="NestJs" src="https://img.shields.io/badge/NestJS-E0234E.svg?style=flat-square&logo=nestjs&logoColor=white"></a>    
   &emsp; 
-  <a href="https://spring.io/" target="_blank"> 
-   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-6DB33F.svg?style=flat-square&logo=spring&logoColor=white">
-  </a>   
+  <a href="https://spring.io/" target="_blank"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-6DB33F.svg?style=flat-square&logo=spring&logoColor=white"></a>   
 </div>
 
 ### 👉 Software & Tools
