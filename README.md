@@ -23,7 +23,6 @@
 - 🤵 I have more than 3 years of professional experience
   
 - 📫 How to reach me mohamed.ali.ayedi.b@gmail.com <br/>
-- 🌐 My <b>portfolio</b> https://mohamed-ali-ayadi.vercel.app/ <br/>
 - 💼 My <b>Linkedin profile </b> https://www.linkedin.com/in/mohamed-ali-ayadi/ <br/>
 - 🧰 My <b>NPM profile</b> https://www.npmjs.com/~mohamedali_ayadi <br/>
 - 😅 My <b>Gitlab profile </b> https://gitlab.com/MohamedAliAyadi <br/>
