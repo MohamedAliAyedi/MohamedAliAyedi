@@ -27,7 +27,6 @@
 - 🧰 My <b>NPM profile</b> https://www.npmjs.com/~mohamedali_ayadi <br/>
 - 😅 My <b>Gitlab profile </b> https://gitlab.com/MohamedAliAyadi <br/>
 
-[![MohamedAliAyedi's GitHub | Languages Over Time](https://stats.quine.sh/MohamedAliAyedi/languages-over-time?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=MohamedAliAyedi)
 
 ## 🛠️ My Skills
 
